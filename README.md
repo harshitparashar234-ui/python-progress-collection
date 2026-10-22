@@ -35,5 +35,3 @@ python structure_to_dictionary.py
 
 ## Author
 Harshit parashar
-
-GitHub: [ArnavB3200](https://github.com/ArnavB3200)
